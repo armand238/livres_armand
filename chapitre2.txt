@@ -1,1 +1,2 @@
 ceci est mon 2 chapitre
+verification des log ok du chap2
