@@ -5,3 +5,4 @@ lecon N2 du chapitre 1
   - deuxieme
   - troisieme
   - quatrieme
+the default user on swr1 is user and password is user
